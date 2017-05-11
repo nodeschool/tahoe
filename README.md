@@ -1,2 +1,9 @@
-# tahoe
-repo for organizing the tahoe nodeschools
+# nodeschool: Tahoe
+
+### When: TBD
+
+### Where: TBD
+
+### Join: TBD
+
+#Mentors
